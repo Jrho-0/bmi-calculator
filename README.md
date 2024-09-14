@@ -1,1 +1,1 @@
-A simple bmi calculator that ask for a user weight (in kilograms) and height (in meters) then compute the user bmi using javascript.
+A simple bmi calculator that ask for a user weight (in kilograms) and height (in meters) which compute and alert the user on their bmi and what range they fall in using javascript.
